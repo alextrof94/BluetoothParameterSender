@@ -1,0 +1,16 @@
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\bin\Debug\BluetoothParameterSender.exe.config
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\bin\Debug\BluetoothParameterSender.exe
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\bin\Debug\BluetoothParameterSender.pdb
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Debug\BluetoothParameterSender.csproj.AssemblyReference.cache
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Debug\BluetoothParameterSender.Form1.resources
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Debug\BluetoothParameterSender.Properties.Resources.resources
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Debug\BluetoothParameterSender.csproj.GenerateResource.cache
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Debug\BluetoothParameterSender.csproj.CoreCompileInputs.cache
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Debug\BluetoothParameterSender.exe
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Debug\BluetoothParameterSender.pdb
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\bin\Debug\BluetoothParameterSender.exe.manifest
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\bin\Debug\BluetoothParameterSender.application
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Debug\BluetoothParameterSender.exe.manifest
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Debug\BluetoothParameterSender.application
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Debug\BluetoothParameterSender.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nRScT74G9YCaxjy2fthEfn8Pjhs4Q4ZzJkCaFp+TyVmaCZ8t223HS6XIhHmdlSiMpJyIQ8YuEKVX57hRSTSPvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alext\\source\\repos\\BluetoothParameterSender\\BluetoothParameterSender\\BluetoothParameterSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alext\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

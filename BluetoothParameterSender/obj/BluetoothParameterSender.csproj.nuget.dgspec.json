@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alext\\source\\repos\\BluetoothParameterSender\\BluetoothParameterSender\\BluetoothParameterSender.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alext\\source\\repos\\BluetoothParameterSender\\BluetoothParameterSender\\BluetoothParameterSender.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alext\\source\\repos\\BluetoothParameterSender\\BluetoothParameterSender\\BluetoothParameterSender.csproj",
+        "projectName": "BluetoothParameterSender",
+        "projectPath": "C:\\Users\\alext\\source\\repos\\BluetoothParameterSender\\BluetoothParameterSender\\BluetoothParameterSender.csproj",
+        "packagesPath": "C:\\Users\\alext\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alext\\source\\repos\\BluetoothParameterSender\\BluetoothParameterSender\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\VisualStudio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alext\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

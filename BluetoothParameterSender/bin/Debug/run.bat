@@ -1,0 +1,1 @@
+"BluetoothParameterSender.exe" "!тест вкл"

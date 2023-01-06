@@ -1,0 +1,16 @@
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\bin\Release\BluetoothParameterSender.exe.config
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\bin\Release\BluetoothParameterSender.exe
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\bin\Release\BluetoothParameterSender.pdb
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\bin\Release\Newtonsoft.Json.dll
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Release\BluetoothParameterSender.csproj.AssemblyReference.cache
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Release\BluetoothParameterSender.Form1.resources
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Release\BluetoothParameterSender.Properties.Resources.resources
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Release\BluetoothParameterSender.csproj.GenerateResource.cache
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Release\BluetoothParameterSender.csproj.CoreCompileInputs.cache
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Release\BluetoothParameterSender.csproj.CopyComplete
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Release\BluetoothParameterSender.exe
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Release\BluetoothParameterSender.pdb
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\bin\Release\BluetoothParameterSender.exe.manifest
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\bin\Release\BluetoothParameterSender.application
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Release\BluetoothParameterSender.exe.manifest
+C:\Users\alext\source\repos\BluetoothParameterSender\BluetoothParameterSender\obj\Release\BluetoothParameterSender.application
